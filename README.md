@@ -1,12 +1,12 @@
-## Boas vindas ao meu perfil 💙
+## Boas vindas ao meu perfil 🎈
 
-Meu nome é Samuel 
+Meu nome é Samuel e sou professor de programação e matemática. 
 
 - Estou estudando [Alura](http://alura.com)
-- Estou me desenvolvendo na linguagem javascript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+- Gosto de backend, frontend, ciência de dados e literatura.
+- Utilizo esse espaço para minha organização, compartilhamento de projetos e acompanhamento dos meus estudantes.
 
-### Você pode entrar em contato comigo 📬
+### bienvenue 📬
 
 @gmail.com
 
